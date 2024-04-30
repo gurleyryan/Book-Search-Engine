@@ -27,11 +27,19 @@ Took starter code with a fully functioning Google Books API search engine built 
 
 ## Installation
 
-
+N/A
 
 ## Usage
 
-
+[Link to the deployed application](https://book-search-engine-kert.onrender.com/) <br />
+![Screenshot 2024-04-30 at 15-14-22 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/5d4cd968-b9a8-4f2f-a00c-d8bbf7fc6b7d)
+The home page will let you search for books. <br /> At the top, you can go to your books if you are logged in, or log in if you need to. <br />
+![Screenshot 2024-04-30 at 15-14-22 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/790bf38d-b201-441a-9d67-eb1409045ed1)
+In your books, you can view and remove your saved books. <br />
+![Screenshot 2024-04-30 at 15-14-22 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/fdfe8178-d120-44b9-a18e-a2afefc359ad)
+The login button will direct you to the login popup, and if you already have an account you can enter your credentials. <br />
+![Screenshot 2024-04-30 at 15-14-22 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/dc77eca3-b39d-456a-b51e-6cb07648d59c)
+If you do not have an account, you can click "Sign Up." 
 
 ## Contributing
 
