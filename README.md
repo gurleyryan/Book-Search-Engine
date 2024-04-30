@@ -33,7 +33,7 @@ N/A
 
 [Link to the deployed application](https://book-search-engine-kert.onrender.com/) <br />
 ![Screenshot 2024-04-30 at 15-14-22 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/1f191c9c-27db-4b8d-9614-5e13adc90c53) <br />
-![Screenshot 2024-04-30 at 15-11-32 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/66269a99-4d2c-4ca7-9132-7b33c34623e5)
+![Screenshot 2024-04-30 at 15-20-29 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/10146cf7-7f1b-453e-a31b-2737709b59d2)
 The home page will let you search for books. <br /> At the top, you can go to your books if you are logged in, or log in if you need to. <br />
 ![Screenshot 2024-04-30 at 15-21-10 React Book Search Engine](https://github.com/gurleyryan/Book-Search-Engine/assets/48134032/dce42ec1-22a8-45f6-b539-b39832e3ac83)
 In your books, you can view and remove your saved books. <br />
