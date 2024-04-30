@@ -52,14 +52,18 @@ Contributors: <br />
 ## Credits
 
 External Sources: <br />
-- [MongoDB]() <br />
+- [MongoDB](https://www.mongodb.com/) <br />
+- [Mongoose](https://www.npmjs.com/package/mongoose) <br />
 - [Express.js](https://www.npmjs.com/package/express) <br />
-- [React.js]() <br />
+- [React.js](https://react.dev/) <br />
 - [Node.js](https://nodejs.org/en) <br />
-- [bcrypt]() <br />
-- [Bootstrap]() <br />
-- [GraphQL]() <br />
-- [Apollo]() <br />
+- [bcrypt](https://www.npmjs.com/package/bcrypt) <br />
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) <br />
+- [jwt-decode](https://www.npmjs.com/package/jwt-decode) <br />
+- [dotenv](https://www.npmjs.com/package/dotenv) <br />
+- [Bootstrap](https://getbootstrap.com/) <br />
+- [GraphQL](https://graphql.org/) <br />
+- [Apollo](https://www.apollographql.com/) <br />
 
 ## Tests
 
